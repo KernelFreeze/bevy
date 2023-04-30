@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MapEntitiesError"],"struct":["Entities","Entity","EntityLocation","EntityMap","ReserveEntitiesIterator"],"trait":["MapEntities"]};

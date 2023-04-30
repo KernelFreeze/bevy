@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AvailableSpace"],"struct":["CalculatedSize","FixedMeasure"],"trait":["Measure"]};
